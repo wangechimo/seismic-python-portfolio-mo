@@ -12,3 +12,7 @@
 
 ## A mistake I made and how I fixed it
 plt . show without brackets
+#day 2
+-Signal frequency below Nyquist: no aliasing.
+-Signal frequency above Nyquist: aliasing.
+- nyquist is sampling frequency/ 2
