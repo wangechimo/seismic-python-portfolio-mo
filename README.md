@@ -16,3 +16,5 @@ plt . show without brackets
 -Signal frequency below Nyquist: no aliasing.
 -Signal frequency above Nyquist: aliasing.
 - nyquist is sampling frequency/ 2
+  ## day 2 sampling frequency and nyquist frequency
+  - fs/ 2=nyquist frequency
